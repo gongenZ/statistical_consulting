@@ -46,7 +46,7 @@ campus. Given the data received from the company, we will be analyzing whether t
 - There is no significant evidence that there was gender bias in hiring
 - gpa was the most significant predictor for being hired to Black Saber Software
 
-We find a gap in pay and leadership roles in the company. This does not necessarily indicate intentional bias, but should be looked into. There is no evidence of gender bias in the hiring process even though 7/10 hires were men while contributing to 42% of applicants.
+We find a gap in pay and leadership roles in the company. This does not necessarily indicate intentional bias, but should be looked into. There is no evidence of gender bias in the hiring process, however, seven out of the ten new hires were men despite only making up 42% of the applicants.
 
 ## Limitations
 
@@ -171,7 +171,7 @@ Based on our box plot, we see that the median salary for men is largest for all 
 
 ## Discussion
 
-Although more men are hired compared to women, this did not indicate bias in hiring. This may be due to a variety of factors that we cannot conclude in this report. For example, women may be dissuaded from advancing to in the hiring phase. However, gpa does appear to be positively correlated with being hired by Black Saber Software. There are also more men in a leadership position as a proportion of the male population as compared to women. This may or may not indicate intentional bias in promotions, but it is a good indicator to look into how the company promotes and assigns productivity and leadership levels. Finally, men have a higher median salary than women. However, this may be due to the higher proportion of leadership roles they possess.
+Although more men are hired compared to women, this did not indicate bias in hiring. This may be due to a variety of factors that we cannot conclude in this report. For example, women may be dissuaded from advancing to the hiring phase. However, gpa does appear to be positively correlated with being hired by Black Saber Software. There are also more men in a leadership position as a proportion of the male population as compared to women. This may or may not indicate intentional bias in promotions, but it is a good indicator to look into how the company promotes and assigns productivity and leadership levels. Finally, men have a higher median salary than women. However, this may be due to the higher proportion of leadership roles they possess.
 
 ### Strengths and limitations
 
