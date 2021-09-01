@@ -3,6 +3,9 @@ All data used in this project was purely fiction.
 All files needed to recreate the output is included in this repository. The pdf of the final report is included
 along with the rmd file if you wish to look at the code.
 
+A note about the project from the instructor of the course:
+https://www.lizabolton.com/sta303_winter21_note
+
 An email with the following contents was sent from them:
 
 Email from Gideon:
